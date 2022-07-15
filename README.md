@@ -53,5 +53,7 @@ End to end is the process to analyze the set of interactions between customers a
 9. pH : describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic); most wines are between 3-4 on the pH scale
 10. sulphates : a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
 
+## Report look like this 
 
+![image](https://github.com/mukesh1996-ds/Quality-Analysis/blob/main/Screenshorts/wineQuality.png)
 
